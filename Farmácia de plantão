@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farmácias de Plantão</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #444;
+        }
+        p {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Farmácias de Plantão</h1>
+    <h2>Referente ao mês: Novembro/2024</h2>
+    <p>Confira abaixo as farmácias disponíveis para atendimento em regime de plantão durante este mês.</p>
+    <img src="https://dl.dropboxusercontent.com/scl/fi/2as4ttfk7ibw3uw2augmc/1730498075109.jpeg?rlkey=yqkuqls4unj5s49l0gamvys1e&dl=0" alt="Farmácias de Plantão">
+    <footer>
+        <p>&copy; 2024 - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
